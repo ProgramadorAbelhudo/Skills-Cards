@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #F6F9FF;
+    background: #1a1a1a;
     height: 100vh;
     width: 100%;
 
@@ -84,13 +84,14 @@ main.cards section.card.about button {
 }
 
 main.cards section.card.contact {
-    box-shadow: 20px 20px 50px -30px #2e2e2e;
+    box-shadow: 20px 20px 50px -35px #ffffff;
+ 
 }
 main.cards section.card.shop {
-    box-shadow: 20px 20px 50px -30px #2e2e2e;
+    box-shadow: 20px 20px 50px -35px #ffffff;
 }
 main.cards section.card.about {
-    box-shadow: 20px 20px 50px -30px #2e2e2e;
+    box-shadow: 20px 20px 50px -35px #ffffff;
 }
 
 @media screen and (max-width: 720px) {
